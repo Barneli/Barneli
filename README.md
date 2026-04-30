@@ -42,17 +42,3 @@
 * **Функціонал:** Додавання, редагування та перегляд постів з використанням SQL для постійного зберігання контенту.
 
 ### В подальшому тут з'являться мої нові проєкти
----
-
-##  Приклад коду (SQL)
-Приклад створення структури для обліку клієнтів з індексуванням для швидкого пошуку :
-
-```sql
-CREATE TABLE customers (
-    id INT AUTO_INCREMENT PRIMARY KEY,
-    name VARCHAR(100),
-    email VARCHAR(100),
-    created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP
-);
-
-CREATE INDEX idx_email ON customers(email);
