@@ -51,4 +51,4 @@
 
 "Профісія C++ розробник"
 
-["Itproger_diplom"](diplom.png)
+!["Itproger_diplom"](diplom.png)
