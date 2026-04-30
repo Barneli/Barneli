@@ -50,4 +50,4 @@
 ###Диплом з проходження курсів Itproger 
 
 "Профісія C++ розробник"
-["Itproger_diplom"](diplom.pdf)
+["Itproger_diplom"](diplom.png)
